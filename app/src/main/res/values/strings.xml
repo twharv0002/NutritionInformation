@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nutrition Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="query">Search Results for:</string>
+    <string name="title_activity_nutrition_info">Nutrition Information</string>
+    <string name="per100g">per 100 grams</string>
+    <string name="calories">Calories:</string>
+    <string name="macronutrientsLabel">Macronutrients</string>
+    <string name="micronutrientsLabel">Micronutrients</string>
+    <string name="fat">Fat:</string>
+    <string name="protein">Protein:</string>
+    <string name="carbs">Carbs:</string>
+    <string name="sodium">Sodium:</string>
+    <string name="fiber">Fiber:</string>
+    <string name="potassium">Potassium:</string>
+    <string name="sugar">-Sugar:</string>
+    <string name="something_wrong">Sorry, something went wrong</string>
+    <string name="ok">Ok</string>
+
+    <string name="hint">Enter a food item</string>
+    <string name="categoryItemName">%s</string>
+    <string name="categoryName">Category: %s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

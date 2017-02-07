@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>Drink 3 liters per day</item>
+        <item>Shoot for 6 small meals a day</item>
+        <item>Anything green is your friend</item>
+        <item>Always read the ingredients list</item>
+    </string-array>
+</resources>
